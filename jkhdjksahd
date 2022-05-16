@@ -1,0 +1,13 @@
+[1mdiff --git a/src/components/route1.js b/src/components/route1.js[m
+[1mindex ab46a2c..82bc430 100644[m
+[1m--- a/src/components/route1.js[m
+[1m+++ b/src/components/route1.js[m
+[36m@@ -4,7 +4,7 @@[m [mclass Route1 extends Component {[m
+     render() {[m
+         return ([m
+             <div>[m
+[31m-                asdasdadsa[m
+[32m+[m[41m                [m
+             </div>[m
+         );[m
+     }[m
